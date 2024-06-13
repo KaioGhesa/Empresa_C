@@ -1,0 +1,14 @@
+C:\Projeto C#\Empresa\Empresa\bin\Debug\net8.0\Empresa.exe
+C:\Projeto C#\Empresa\Empresa\bin\Debug\net8.0\Empresa.deps.json
+C:\Projeto C#\Empresa\Empresa\bin\Debug\net8.0\Empresa.runtimeconfig.json
+C:\Projeto C#\Empresa\Empresa\bin\Debug\net8.0\Empresa.dll
+C:\Projeto C#\Empresa\Empresa\bin\Debug\net8.0\Empresa.pdb
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.AssemblyInfoInputs.cache
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.AssemblyInfo.cs
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.dll
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\refint\Empresa.dll
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.pdb
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\Empresa.genruntimeconfig.cache
+C:\Projeto C#\Empresa\Empresa\obj\Debug\net8.0\ref\Empresa.dll
